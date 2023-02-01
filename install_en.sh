@@ -4,7 +4,7 @@
 # check system
 export LANG=en_US.UTF-8
 
-echo Content () {
+echoContent () {
 	case $1 in
 	#red _
 	"red")
